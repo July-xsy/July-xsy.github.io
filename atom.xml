@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://July-xsy.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-12-22T02:02:40.555Z</updated>
+    <updated>2019-12-22T13:20:22.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://July-xsy.github.io/"/>
     <link rel="self" href="https://July-xsy.github.io//atom.xml"/>
@@ -10,4 +10,21 @@
     <logo>https://July-xsy.github.io//images/avatar.png</logo>
     <icon>https://July-xsy.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Let's study the Contemporary College English!]]></title>
+        <id>https://July-xsy.github.io//post/JI_VDVQ-l</id>
+        <link href="https://July-xsy.github.io//post/JI_VDVQ-l">
+        </link>
+        <updated>2019-12-22T12:22:30.000Z</updated>
+        <content type="html"><![CDATA[<p>[谷歌翻译](http://translate.google.com）</p>
+<p><a href="http://baidu.com">百度</a><br>
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/<br>
+u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg &quot;区块链&quot;)</p>
+<h1 id="词汇">词汇</h1>
+<h1 id="unit-1">unit 1</h1>
+<p><em>border v. 与...结界</em><br>
+<em>circus n. 马戏团</em><br>
+<em>cling v. 紧抓</em></p>
+]]></content>
+    </entry>
 </feed>
